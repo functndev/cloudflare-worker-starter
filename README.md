@@ -10,7 +10,7 @@ run npm install to install all dependencies
 
 npm install
 
-```
+	```
 
 run npm dev to start the development server
 
@@ -24,7 +24,7 @@ npm run dev
 
 deployment is done via github action, so push to main will deploy the worker.
 it requires a repository secret called CLOUDFLARE_API_TOKEN with the api token of your cloudflare account.
-````
+
 
 ## Documentation
 
