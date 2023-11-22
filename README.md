@@ -6,11 +6,11 @@ the starter kit is setup with full typescript support.
 
 run npm install to install all dependencies
 
-````bash
+```bash
 
 npm install
 
-	```
+```
 
 run npm dev to start the development server
 
